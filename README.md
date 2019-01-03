@@ -1,4 +1,4 @@
-# web-caesar
+# Web-Caesar
 web-caesar
 Flask implementation of simple encryption algorithms in a Flask web application.
 
@@ -8,13 +8,15 @@ If you accidentally encrypt the wrong message, you can quickly undo the encrypti
 
 Features include input validation and some toggling.
 
-To Run
+# To Run
+
 Clone or download the repository
 Have Python installed on your machine
 Download Flask
 Start a local Flask web server
 In a terminal or command prompt, navigate to the downloaded folder and run python main.py. (The flask docs have an alternate way of doing this.)
 In a browser, go to the URL indicated by Running on http://XXX.X.X.X:YYYY/
-Enjoy
-Future Enhancements
+
+
+# Future Enhancements
 add decryption capability with inputed shift for caesar or key for vingenere ciphers.
