@@ -15,8 +15,6 @@ Features include input validation and some toggling.
 - Start a local Flask web server
   - In a terminal or command prompt, navigate to the downloaded folder and run `python main.py`. (The flask docs have an alternate way of doing this.) 
   - In a browser, go to the URL indicated by `Running on http://XXX.X.X.X:YYYY/` 
+
+- decryption capability with inputed shift for caesar or key for vingenere ciphers. 
 - Enjoy
-
-## Future Enhancements
-
-- add decryption capability with inputed shift for caesar or key for vingenere ciphers. 
