@@ -3,7 +3,7 @@ Flask implementation of simple encryption algorithms in a Flask web application.
 
 Allows you to input and encrypt messages using the caesar and vigenere ciphers. 
 
-If you accidentally encrypt the wrong message, you can quickly undo the encryption. This button is disabled as soon as the decrypted message is changed in the textbox, and is provided as an exercise in early JavaScript. 
+If you accidentally encrypt the wrong message, you can quickly undo the encryption. This button is disabled as soon as the decrypted message is changed in the textbox, and is provided as an exercise in JavaScript. 
 
 Features include input validation and some toggling. 
 
