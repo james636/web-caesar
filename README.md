@@ -1,5 +1,5 @@
 # web-caesar
-Flask implementation of simple encryption algorithms in a Flask web application. 
+Pythn with Flask implementation of simple encryption algorithms in a Flask web application. 
 
 Allows you to input and encrypt messages using the caesar and vigenere ciphers. 
 
